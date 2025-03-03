@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 class A
 {
 public:
@@ -65,8 +64,8 @@ int main()
 {
     A a;
     // B b;
-    // C c;
-    // D d;
+    //   C c;
+    //  D d;
 
     cout << "Size of a = " << sizeof(a) << endl;
     return 0;
